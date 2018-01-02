@@ -12,7 +12,7 @@ for linux OS: apt-get install gnuradio
 To build any oot(out of tree) module manually from source, follow this procedure.
 
 
-1. `$ cd gr-adsb`
+1. `$ cd gr-2trxmimo`
 2. `$ mkdir build`
 3. `$ cd build`
 4. `$ cmake ../` or `$ cmake -DCMAKE_INSTALL_PREFIX=<path_to_install> ../`

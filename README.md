@@ -23,3 +23,4 @@ To build any oot(out of tree) module manually from source, follow this procedure
 #### https://readthedocs.org
 #### Benchmarks https://wiki.gnuradio.org/index.php/HowToUse
 #### Useful OOT MODULES TO BE INSTALLED (gr-inspecor gr-lte gr-ieee802-11)
+#### https://gitlab.eurecom.fr/oai/openairinterface5g/wikis/HowToConnectOAIENBWithOAIUEWithoutS1Interface
